@@ -1,0 +1,16 @@
+{
+  "name": "sequelizecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": { 
+    "start": "node server.js"
+  },
+  "author": "MedSamiMejri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.10"
+  }
+}
